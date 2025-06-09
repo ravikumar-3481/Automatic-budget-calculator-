@@ -22,8 +22,3 @@ Enter Your Monthly Bill Amount (₹):
 
       Total          : ₹ 41314.40
 ✅ Your Savings      : ₹ 8685.60
-
-
-
-** Process exited - Return Code: 0 **
-Press Enter to exit terminal
