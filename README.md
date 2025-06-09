@@ -1,6 +1,4 @@
-# Automatic-budget-calculator-
-
-# ðŸ§¾ Auto Expense Calculator â€“ Simple Monthly Budget Planner
+# Auto Expense Calculator Simple Monthly Budget Planner
 
 ### What is this?
 
