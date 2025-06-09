@@ -1,0 +1,29 @@
+🔢 Auto Expense Calculator Based on Income
+
+Enter your monthly income (₹): 
+50000
+
+Enter Your Monthly House Rent Amount (₹): 
+3000
+
+Enter Your Monthly Groceries Amount (₹): 
+3000
+
+Enter Your Monthly Bill Amount (₹): 
+2000
+
+📊 Estimated Monthly Expenses Breakdown:
+  - Rent             : ₹ 3000.00
+  - Groceries        : ₹ 3000.00
+  - Bills            : ₹ 2000.00
+  - Miscellaneous    : ₹ 25200.00
+  - Emergency Fund   : ₹ 4200.00
+  - Investment       : ₹ 3914.40
+
+      Total          : ₹ 41314.40
+✅ Your Savings      : ₹ 8685.60
+
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
